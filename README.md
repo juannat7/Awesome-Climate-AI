@@ -31,6 +31,7 @@ If you happen to discover something new, find out issues with the current lists,
 * [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - Satellite datasets repository (Landsat 7 & 8, Sentinel-2, MODIS, ASTER, etc).
 * [Singapore's Urban Data](https://data.gov.sg/) - Singapore's urban datasets.
 * [SMAP: NASA’s Soil Moisture Active Passive Data](https://smap.jpl.nasa.gov/data/) - Low resolution soil moisture maps.
+* [PSL Climate Indices](https://psl.noaa.gov/data/climateindices/list/) - Monthly atmospheric and ocean time-series such as NINA3.4 index.
 
 ## Open Project
 * [Driven Data](https://www.drivendata.org/) - Data Science competition which focuses on social impacts.
@@ -55,6 +56,9 @@ If you happen to discover something new, find out issues with the current lists,
 * [Stanford Woods Institute for the Environment](https://woods.stanford.edu/) - Producing breakthrough environmental knowledge and solutions that sustain people and planet today and for generations to come.
 * [Cornell's Computational Sustainability](https://www.compsust.net/) - Research network that focuses on applying cross-cutting computational topics on sustainability.
 * [MIT Senseable City Lab](http://senseable.mit.edu/) - Research group specializes in urban analytics and social innovation through design & science.
+* [Open Source Climate](https://www.os-climate.org/) - Open Source collaboration community to build a software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
+* [Global Warming I](https://www.coursera.org/learn/global-warming) - Free online class describing the science of global warming and the forecast for humans’ impact on Earth’s climate. 
+* [Global Warming II](https://www.coursera.org/learn/global-warming-model) - Free online class that provides a series of Python programming exercises intended to explore the use of numerical modeling in the Earth system and climate sciences.
 
 ## Tools
 * [Geopandas](https://geopandas.org/) - Work with geospatial dataframes and objects.

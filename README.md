@@ -32,6 +32,10 @@ If you happen to discover something new, find out issues with the current lists,
 * [Singapore's Urban Data](https://data.gov.sg/) - Singapore's urban datasets.
 * [SMAP: NASA’s Soil Moisture Active Passive Data](https://smap.jpl.nasa.gov/data/) - Low resolution soil moisture maps.
 * [PSL Climate Indices](https://psl.noaa.gov/data/climateindices/list/) - Monthly atmospheric and ocean time-series such as NINA3.4 index.
+* [XView](http://xviewdataset.org/) - Publicly available datasets of overhead imagery that contains images from complex scenes around the world, annotated using bounding boxes.
+* [Functional Map of the World](https://www.iarpa.gov/challenges/fmow.html) - Satellite-image datasets with more than one million points of interest from around the world. 
+* [RSI-CB](https://github.com/lehaifeng/RSI-CB) - Large scale remote sensing image classification benchmark via crowdsourced POI and landuse data.
+* [NWPU-RESISC45](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs) - Benchmark for Remote Sensing Image Scene Classification (RESISC), created by Northwestern Polytechnical University (NWPU) that contains 31,500 images, covering 45 scene classes with 700 images in each class.
 
 ## Open Project
 * [Driven Data](https://www.drivendata.org/) - Data Science competition which focuses on social impacts.
